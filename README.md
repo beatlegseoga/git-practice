@@ -17,6 +17,9 @@ $ git clone {repo address}
 $ cd {repo name}
 $ vi README.md
 ```
+
+unstage practice.
+
 ## How to start
 
 ```python
